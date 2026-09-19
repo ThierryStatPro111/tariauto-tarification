@@ -30,7 +30,8 @@ st.markdown("""
 <style>
     /* Couleur de fond principale */
     .main {
-        background-color: #f8f9fa;
+        /*background-color: #f8f9fa;*/
+        background-color: black;
     }
     
     /* Bandeau titre */
@@ -275,7 +276,7 @@ with st.sidebar:
         <b>Données :</b> freMTPL2 (France)<br>
         677 991 polices analysées<br>
         <b>Modèle :</b> GLM Poisson × Log-Normal<br>
-        <b>Auteur :</b> T. NIYOKWIZIGIRWA<br>
+        <b>Auteur :</b> Thierry NIYOKWIZIGIRWA<br>
         <b>Version :</b> 2.0 — 2026
     </div>
     """, unsafe_allow_html=True)
@@ -1082,8 +1083,8 @@ elif page == "ℹ️ À propos du Modèle":
     automobile du marché français.
     
     **Auteur :** Thierry NIYOKWIZIGIRWA  
-    **Encadrant :** Dr. William  
-    **Date :** 15 Septembre, 2026
+    **Encadrant :** Dr. William SAHINGUVU
+    **Date :** 19 Septembre, 2026
     """)
 
 # ============================================================
